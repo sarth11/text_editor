@@ -1,2 +1,4 @@
 # text_editor
-edit text on go
+Edit text on go
+Functionality for Editing options  like – cut, copy ,paste ,save as ,find and replace
+Technology - Core JAVA
